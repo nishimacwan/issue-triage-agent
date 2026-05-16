@@ -1,0 +1,21 @@
+Fetching issues from langchain-ai/langchain...
+
+Found 6 real issues (excluding pull requests).
+
+Classifying issue #37452... (1/6)
+Classifying issue #37442... (2/6)
+Classifying issue #37438... (3/6)
+Classifying issue #37426... (4/6)
+Classifying issue #37423... (5/6)
+Classifying issue #37421... (6/6)
+
+================================================================================
+#      Category   Title                                             
+================================================================================
+37452  bug        `Chroma.update_document()` fails when `Document...
+37442  feature    feat(langchain): add fork_agent for spawning id...
+37438  bug        grep_search: Python fallback skips valid UTF-8 ...
+37426  feature    Add tool_call_id to on_tool_start event's data    
+37423  bug        HTMLSemanticPreservingSplitter processes malfor...
+37421  bug        ChatOpenAI.with_structured_output(..., method="...
+================================================================================
